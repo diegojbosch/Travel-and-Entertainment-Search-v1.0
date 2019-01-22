@@ -1,0 +1,60 @@
+.hide { 
+    position: relative;
+    width:1000px;
+    margin-top: 25px;
+}
+
+#divFrame {
+    text-align: center;
+    width:100%;
+}
+
+#div-iframe {
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    margin: 0;
+}
+
+form {   
+    border: 1px solid #999;
+    border: inset 1px solid #333;
+    width: 600px;
+    height: 210px;
+    margin: auto;
+    position: relative;
+}
+
+#no-records {
+    background-color: gainsboro;
+    width: 75%;
+    border: 1px solid lightgray;
+    text-align: center;
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid lightgray;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color:inherit;
+}
